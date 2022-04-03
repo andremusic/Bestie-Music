@@ -1,12 +1,12 @@
-#### MUSIC NGENTOT 🎼
+#### MUSIC BESTIE 🎼
 #### **Kalo Deploy Gausah Banyak Bacot Ngentot Tinggal Deploy Gw Entot Juga Lu Lama Lama**
 <p align="center">
-   <img src="https://telegra.ph/file/a8d7c3eff933b254c6ab4.jpg">
+   <img src="https://telegra.ph/file/ec1f11d3e4d4f7b00d50c.jpg">
 </p>
 
 ### DEPLOY TO HEROKU TOD!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UserbotMaps/Anonim-Music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/andrebengal/Bestie-Music)
 
 ### AMBIL STRING TOD
 Get pyrogram (p)  `SESSION` from here:
@@ -47,6 +47,7 @@ If you donlt like to play in linked channel:
 + Sudo Users can execute any command in any groups
 
 #### Special Credits
+- [𝗵𝗶𝗿𝗼𝘀𝗵𝗶](https://github.com/UserbotMaps) Dev
 - [𝗧𝗼𝗻𝗶𝗰](https://github.com/Tonic990) Dev
 - [𝗨𝘀𝗲𝗿𝗯𝗼𝘁𝗠𝗮𝗽𝘀](https://github.com/UserbotMaps) Dev
 - [𝗥𝗶𝘇𝗸𝘆](https://github.com/muhammadrizky16) Dev
