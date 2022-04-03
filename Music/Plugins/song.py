@@ -155,8 +155,8 @@ Kembalikan ke Akun Pengguna Dari Hak Admin.
         m = await message.reply_text(
             f"""
 <b>🏷️ **Nama** :</b> [{title[:50]}]({url})
-<b>💡</b> [Kepo Lu Kontol](https://t.me/{BOT_USERNAME}?start=info_{id})
-<b>✨ **Developer** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+<b>💡</b> [Hallo Bestie](https://t.me/{BOT_USERNAME}?start=info_{id})
+<b>✨ **Developer** : [ʜɪʀᴏsʜɪ](https://t.me/bengalnibos)
 """,
             reply_markup=InlineKeyboardMarkup(buttons),
         )
@@ -193,7 +193,7 @@ Kembalikan ke Akun Pengguna Dari Hak Admin.
         except Exception as e:
             return await mystic.edit_text(
                 f"Lagu Tidak Ditemukan.\\in**Kemungkinan Alasan:**{e}")
-        thumb ="cache/IMG_20211201_214925_953.jpg"
+        thumb ="cache/IMG_20220403_224438_040.jpg"
         await mystic.delete()
         buttons = search_markup(
             ID1,
@@ -211,30 +211,30 @@ Kembalikan ke Akun Pengguna Dari Hak Admin.
         )
         hmo = await message.reply_text(
             f"""
-<b>✨ sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ᴍᴀɴᴀ ʟᴀɢᴜ ʏᴀɴɢ ɪɴɢɪɴ ʟᴜ ᴅᴏᴡɴʟᴏᴀᴅ</b>
+<b>✨ sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ʟᴀɢᴜ ʏɢ ᴘᴇɴɢᴇɴ ʟᴜ ᴘᴜᴛᴀʀ ʙᴇsᴛɪᴇ</b>
 
 ¹ <b>{title1[:50]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ² <b>{title2[:50]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID2})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID2})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ³ <b>{title3[:50]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID3})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID3})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ⁴ <b>{title4[:50]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID4})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID4})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ⁵ <b>{title5[:50]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID5})
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID5})
   ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
   ╚ ❒ **{BOT_NAME}**
 """,
@@ -295,8 +295,8 @@ async def startyuplay(_, CallbackQuery):
         reply_markup=InlineKeyboardMarkup(buttons),
         caption=f"""
 <b>🏷️ **Nama** :</b> [{title[:50]}]({url})
-╚ 💡 [Kepo Lu Kontol](https://t.me/{BOT_USERNAME}?start=info_{id})
-╚ ✨ **Developer** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+╚ 💡 [Hallo Bestie](https://t.me/{BOT_USERNAME}?start=info_{id})
+╚ ✨ **Developer** : [ʜɪʀᴏsʜɪ](https://t.me/bengalnibos)
 """,
     )
     os.remove(thumb)
@@ -373,31 +373,31 @@ async def chonga(_, CallbackQuery):
         )
         await CallbackQuery.edit_message_text(
             f"""
-<b>✨ sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ᴍᴀɴᴀ ʟᴀɢᴜ ʏᴀɴɢ ɪɴɢɪɴ ʟᴜ ᴅᴏᴡɴʟᴏᴀᴅ</b>
+<b>✨ sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ʟᴀɢᴜ ʏɢ ᴘᴇɴɢᴇɴ ʟᴜ ᴘᴜᴛᴀʀ ʙᴇsᴛɪᴇ</b>
 
 ⁶ <b>{title6[:50]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID6})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID6})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ⁷ <b>{title7[:50]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID7})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID7})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ⁸ <b>{title8[:50]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID8})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID8})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ⁹ <b>{title9[:50]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID9})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID9})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ¹⁰ <b>{title10[:50]}</b>
-   ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID10})
-   ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+   ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID10})
+   ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/bengalnibos)
    ╚ ❒ **{BOT_NAME}**
 """,
             reply_markup=InlineKeyboardMarkup(buttons),
@@ -408,31 +408,31 @@ async def chonga(_, CallbackQuery):
         buttons = search_markup(ID1, ID2, ID3, ID4, ID5, duration1, duration2, duration3, duration4, duration5, user_id, query)
         await CallbackQuery.edit_message_text(
             f"""
-<b>✨ sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ᴍᴀɴᴀ ʟᴀɢᴜ ʏᴀɴɢ ɪɴɢɪɴ ʟᴜ ᴅᴏᴡɴʟᴏᴀᴅ</b>
+<b>✨ sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ʟᴀɢᴜ ʏɢ ᴘᴇɴɢᴇɴ ʟᴜ ᴘᴜᴛᴀʀ ʙᴇsᴛɪᴇ</b>
 
 ¹ <b>{title1[:50]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ² <b>{title2[:50]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID2})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID2})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ³ <b>{title3[:50]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID3})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID3})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ⁴ <b>{title4[:50]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID4})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID4})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ⁵ <b>{title5[:50]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID5})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID5})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 """,
             reply_markup=InlineKeyboardMarkup(buttons),
