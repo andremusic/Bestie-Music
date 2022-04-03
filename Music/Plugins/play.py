@@ -356,31 +356,31 @@ async def play(_, message: Message):
             photo=thumb, 
             caption=(
             f"""
-**🏷 sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ʟᴀɢᴜ ʏᴀɴɢ ɪɴɢɪɴ ʟᴜ ᴘᴜᴛᴀʀ ᴋᴏɴᴛᴏʟ 👀**
+**🏷 sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ʟᴀɢᴜ ʏɢ ᴘᴇɴɢᴇɴ ʟᴜ ᴘᴜᴛᴀʀ ʙᴇsᴛɪᴇ 👀**
 
 ¹ <b>{title1[:65]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ² <b>{title2[:65]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ³ <b>{title3[:65]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ⁴ <b>{title4[:65]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ⁵ <b>{title5[:65]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 """),    
             reply_markup=InlineKeyboardMarkup(buttons),
@@ -669,31 +669,31 @@ async def popat(_,CallbackQuery):
         buttons = search_markup2(ID6, ID7, ID8, ID9, ID10, duration6, duration7, duration8, duration9, duration10 ,user_id, query)
         await CallbackQuery.edit_message_text(
             f"""
-<b>**🏷 sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ʟᴀɢᴜ ʏᴀɴɢ ɪɴɢɪɴ ʟᴜ ᴘᴜᴛᴀʀ ᴋᴏɴᴛᴏʟ 👀**</b>
+<b>**🏷 sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ʟᴀɢᴜ ʏɢ ᴘᴇɴɢᴇɴ ʟᴜ ᴘᴜᴛᴀʀ ʙᴇsᴛɪᴇ 👀**</b>
 
 ⁶ <b>{title6[:60]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ⁷ <b>{title7[:60]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ⁸ <b>{title8[:60]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ⁹ <b>{title9[:60]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ¹⁰ <b>{title10[:60]}</b>
-   ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-   ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+   ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+   ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
    ╚ ❒ **{BOT_NAME}**
 """, 
             reply_markup=InlineKeyboardMarkup(buttons),
@@ -704,31 +704,31 @@ async def popat(_,CallbackQuery):
         buttons = search_markup(ID1, ID2, ID3, ID4, ID5, duration1, duration2, duration3, duration4, duration5, user_id, query)
         await CallbackQuery.edit_message_text(
             f"""
-<b>**🏷 sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ʟᴀɢᴜ ʏᴀɴɢ ɪɴɢɪɴ ʟᴜ ᴘᴜᴛᴀʀ ᴋᴏɴᴛᴏʟ 👀**</b>
+<b>**🏷 sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ʟᴀɢᴜ ʏɢ ᴘᴇɴɢᴇɴ ʟᴜ ᴘᴜᴛᴀʀ ʙᴇsᴛɪᴇ 👀**</b>
 
 ¹ <b>{title1[:60]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ² <b>{title2[:60]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ³ <b>{title3[:60]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ⁴ <b>{title4[:60]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 
 ⁵ <b>{title5[:60]}</b>
-  ╠ ❒ [ᴋᴇᴘᴏ ʟᴜ ᴋᴏɴᴛᴏʟ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
-  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʜɪʀᴏsʜɪ](https://t.me/Bisubiarenak)
+  ╠ ❒ [ʜᴀʟʟᴏ ʙᴇsᴛɪᴇ](https://t.me/{BOT_USERNAME}?start=info_{ID1})
+  ╠ ❒ **ᴅᴇᴠᴇʟᴏᴘᴇʀ** : [ʙᴇɴɢᴀʟ](https://t.me/bengalnibos)
   ╚ ❒ **{BOT_NAME}**
 """,    
             reply_markup=InlineKeyboardMarkup(buttons),
@@ -744,7 +744,7 @@ async def play_playlist_cmd(_, message):
     buttons = playlist_markup(user_name, user_id)
     await message.reply_photo(
     photo=thumb, 
-    caption=("**𝐌𝐮𝐬𝐢𝐜'𝐬 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 𝐅𝐞𝐚𝐭𝐮𝐫𝐞**\n\n𝐏𝐢𝐥𝐢𝐡 𝐃𝐚𝐟𝐭𝐚𝐫 𝐏𝐮𝐭𝐚𝐫 𝐲𝐚𝐧𝐠 𝐢𝐧𝐠𝐢𝐧 𝐀𝐧𝐝𝐚 𝐦𝐚𝐢𝐧𝐤𝐚𝐧."),    
-    reply_markup=InlineKeyboardMarkup(buttons),
+    caption=("**Music's Playlist Feature**\n\nPilih Daftar Putar Yang Ingin Anda Mainkan."),    
+    reply_markup=InlineKeyboardMarkup(buttons), 
     )
-    return
+    return 
