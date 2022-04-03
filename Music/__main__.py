@@ -51,8 +51,8 @@ async def load_start():
         except Exception as e:
             print("Error came while clearing db")
             pass     
-    await app.send_message(LOG_GROUP_ID, "Bot Musik Sudah Aktif Kontol..")
-    await client.send_message(LOG_GROUP_ID, "Assistant Sudah Aktif Kontol..")
+    await app.send_message(LOG_GROUP_ID, "Bot Musik Sudah Aktif..")
+    await client.send_message(LOG_GROUP_ID, "Assistant Sudah Aktif..")
     print("[INFO]: STARTED")
     
    
