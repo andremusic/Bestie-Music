@@ -53,6 +53,21 @@
             "description": "fill with the mongodb url get from mongodb.cloud.com (don't use mine below !)",
             "required": true,
             "value": ""
+        }, 
+        "GROUP": {
+            "description": "Masukin Username Group Anda",
+            "required": true,
+            "value": ""
+        }, 
+        "CHANNEL": {
+            "description": "Masukin Username Channel Anda",
+            "required": true,
+            "value": ""
+        },
+        "MUST_JOIN": {
+            "description": "Masukin Username Channel Fsub Anda Pake @",
+            "required": true,
+            "value": ""
         }
     },
     "buildpacks": [
