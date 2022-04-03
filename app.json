@@ -55,19 +55,19 @@
             "value": ""
         }, 
         "GROUP": {
-            "description": "Masukin Username Group Anda",
+            "description": "Masukin Username Group Anda Ga Pake @",
             "required": true,
-            "value": ""
+            "value": "BestieForever_id"
         }, 
         "CHANNEL": {
-            "description": "Masukin Username Channel Anda",
+            "description": "Masukin Username Channel Anda Ga Pake @",
             "required": true,
-            "value": ""
+            "value": "bestieechannel"
         },
         "MUST_JOIN": {
             "description": "Masukin Username Channel Fsub Anda Pake @",
             "required": true,
-            "value": ""
+            "value": "@bestieechannel"
         }
     },
     "buildpacks": [
