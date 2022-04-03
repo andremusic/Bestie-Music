@@ -317,7 +317,7 @@ async def play(_, message: Message):
             what = "Command"
             await LOG_CHAT(message, what)
             user_name = message.from_user.first_name
-            thumb ="cache/IMG_20220304_005450_670.jpg"
+            thumb ="cache/IMG_20220403_224438_040.jpg"
             buttons = playlist_markup(user_name, user_id)
             hmo = await message.reply_photo(
             photo=thumb, 
@@ -349,7 +349,7 @@ async def play(_, message: Message):
             ID5 = (result[4]["id"])
         except Exception as e:
             return await mystic.edit_text(f"❌ 𝐋𝐚𝐠𝐮 𝐓𝐢𝐝𝐚𝐤 𝐃𝐢𝐭𝐞𝐦𝐮𝐤𝐚𝐧.\n**𝐌𝐮𝐧𝐠𝐤𝐢𝐧 𝐊𝐚𝐫𝐞𝐧𝐚 𝐀𝐥𝐞𝐬𝐚𝐧:**{e}")
-        thumb ="cache/IMG_20220304_005450_670.jpg"
+        thumb ="cache/IMG_20220403_224438_040.jpg"
         await mystic.delete()   
         buttons = search_markup(ID1, ID2, ID3, ID4, ID5, duration1, duration2, duration3, duration4, duration5, user_id, query)
         hmo = await message.reply_photo(
@@ -738,7 +738,7 @@ async def popat(_,CallbackQuery):
         
 @app.on_message(filters.command("playplaylist"))
 async def play_playlist_cmd(_, message):
-    thumb ="cache/IMG_20211201_214925_953.jpg"
+    thumb ="cache/IMG_20220403_224438_040.jpg"
     user_id = message.from_user.id
     user_name = message.from_user.first_name
     buttons = playlist_markup(user_name, user_id)
