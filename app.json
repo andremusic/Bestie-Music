@@ -1,8 +1,8 @@
 {
-    "name": "MUSIC NGENTOT",
+    "name": "MUSIC BESTIE",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/UserbotMaps/Anonim-Music",
+    "repository": "https://github.com/andrebengal/Bestie-Music",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -12,7 +12,7 @@
         "OWNER_ID": {
             "description": "fill with your telegram id as the owner of the bot",
             "required": true,
-            "value": "1663258664"
+            "value": "1924607202"
         },
         "ASS_ID": {
             "description": "fill with telegram id of account",
